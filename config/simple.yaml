@@ -1,0 +1,33 @@
+grid:
+  width: 60
+  height: 60
+  cell:
+    width: 15
+    height: 15
+
+obstacles:
+  single: 25
+
+grass: 800
+
+clock:
+  ticks: 10
+  generation_size: 350
+
+animats:
+  count:
+    easy_prey: 10
+    hard_prey: 40
+    predator: 10
+    best_predator: 5
+  range:
+    easy_prey: 5
+    hard_prey: 5
+    predator: 5
+  speed:
+    easy_prey: 5
+    hard_prey: 7
+    predator: 10
+
+
+
